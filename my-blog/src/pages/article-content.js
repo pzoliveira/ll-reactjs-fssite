@@ -1,4 +1,4 @@
-const articles = [
+const articleContent = [
     {
         name: 'learn-react',
         title: 'The Fastest Way to Learn React',
@@ -23,7 +23,8 @@ const articles = [
             interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
             consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
         ]
-    },    {
+    },
+    {
         name: 'learn-node',
         title: 'How to Build a Node Server in 10 Minutes',
         content: [
@@ -47,7 +48,8 @@ const articles = [
             interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
             consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
         ]
-    },     {
+    },
+    {
         name: 'my-thoughts-on-resumes',
         title: 'My Thoughts on Resumes',
         content: [
@@ -74,4 +76,4 @@ const articles = [
     },  
 ];
 
-export default articles;
+export default articleContent;
